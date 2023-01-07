@@ -1,3 +1,4 @@
+This subdirectory gives the best solution found in our study for the PESC problem with 11 <= N <= 200.
 The best solution found is stored in a text file named "N_CubeSol.txt", where N is the number of unit spheres. 
 The format of solution file is as follows: 
 The first line contains the number of unit spheres (N) and the size of cube container (L). 
