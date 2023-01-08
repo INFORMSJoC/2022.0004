@@ -18,6 +18,11 @@ This repository includes mainly the following materials:
 
 ## Running the pragram
 
- For the PECS problem, 
-
- For the PESC problem,
+ ### Solving the PECS problem, 
+Usage: 
+./PBTSPECS   N   NumberOfRuns  TimeLimit
+where N is number of unit circles, NumberOfRuns is the number of times of running the PBTSPECS program. 
+ ### Solving the PESC problem,
+Usage: 
+./PBTSPECS   N   NumberOfRuns  TimeLimit
+where N is number of unit spheres, NumberOfRuns is the number of times of running the PBTSPESC program. 
