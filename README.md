@@ -12,9 +12,9 @@ This repository includes mainly the following materials:
 - _source codes of proposed PBTS algorithm respectively for the PECS and PESC problems_ (See [source code](src/source_code) directory for the details.)
 - _executable codes of proposed PBTS algorithm respectively for the PECS and PESC problems_ (See [executable code](src/executable_code) directory for the details.)
 - _check procedure aiming to certify the feasibility of best solutions found_ (See [check procedure](src/check_procedure) directory for the details.)
-- _Matlab procedure to show the configuration of solutions of the PECS problem_ (See [Matlab procedure](src/matlab procedure for pictures) directory for the details.)
-- _detailed computatioanl results obtained in our experiments_(See [detailed results](results/detailed results) directory for the details.)
-- _Best solutions found in the experiments_(See [best solutions](results/best solutions) directory for the details.)
+- _Matlab procedure to show the configuration of solutions of the PECS problem_ (See [src/matlab procedure for pictures directory] for the details.)
+- _detailed computatioanl results obtained in our experiments_(See [results/detailed results] directory for the details.)
+- _Best solutions found in the experiments_(See [results/best solutions] directory for the details.)
 
 ## Running the pragram
 
