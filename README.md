@@ -27,6 +27,6 @@ _Note: See [executable code for PECS](src/executable_code/PECS) directory for th
 _Usage:_ 
 ./PBTSPESC    N    NumberOfRuns   TimeLimit
 ,where N is number of unit spheres, NumberOfRuns is the number of times of running the PBTSPESC program, and TimeLimit is the time limit (in seconds) for each run
--N  number of unit spheres
--NumberOfRuns the number of times of running the PBTSPESC prograM
+- N  number of unit spheres
+- NumberOfRuns the number of times of running the PBTSPESC prograM
 _Note: See [executable code for PESC](src/executable_code/PESC) directory for the details._
