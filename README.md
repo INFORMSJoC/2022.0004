@@ -16,8 +16,8 @@ This repository includes mainly the following materials:
 - _detailed computatioanl results obtained in our experiments_(See [detailed results](results/detailed results) directory for the details.)
 - _Best solutions found in the experiments_(See [best solutions](results/best solutions) directory for the details.)
 
-# Running the pragram
+## Running the pragram
 
-## For the PECS problem, 
+ For the PECS problem, 
 
-## For the PESC problem,
+ For the PESC problem,
