@@ -21,15 +21,3 @@ This repository includes mainly the following materials:
 ## For the PECS problem, 
 
 ## For the PESC problem,
-
-
-# Results
-
-_Note: Best solutions found in our experiments for_
-- _The PECS problem_
-- _The PESC problem_
-_are available in the [results](results) directory._
-
-_Detailed results for all the tested instances are shown in [detailed result](results/detailed results/The detailed computational results and parameter analysis.pdf)._
-
-
