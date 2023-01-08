@@ -21,12 +21,14 @@ This repository includes mainly the following materials:
  ### Solving the PECS problem 
 _Usage:_ 
 ./PBTSPECS    N    NumberOfRuns   TimeLimit
-,where N is number of unit circles, NumberOfRuns is the number of times of running the PBTSPECS program, and TimeLimit is the time limit (in seconds) for each run. 
+- N number of unit circles
+- NumberOfRuns the number of times of running the PBTSPECS program 
+- TimeLimit the time limit (in seconds) for each run. 
 _Note: See [executable code for PECS](src/executable_code/PECS) directory for the details._
  ### Solving the PESC problem
 _Usage:_ 
 ./PBTSPESC    N    NumberOfRuns   TimeLimit
-,where N is number of unit spheres, NumberOfRuns is the number of times of running the PBTSPESC program, and TimeLimit is the time limit (in seconds) for each run
 - N  number of unit spheres
-- NumberOfRuns the number of times of running the PBTSPESC prograM
+- NumberOfRuns the number of times of running the PBTSPESC program
+- TimeLimit time limit (in seconds) for each run
 _Note: See [executable code for PESC](src/executable_code/PESC) directory for the details._
