@@ -18,7 +18,7 @@ This repository includes mainly the following materials:
 
 ## Running the pragram
 
- ### Solving the PECS problem 
+ ### The PECS problem 
 _Usage:_ 
 
 ./PBTSPECS    N    NumberOfRuns   TimeLimit
@@ -27,7 +27,7 @@ _Usage:_
 - TimeLimit is the time limit (in seconds) for each run. 
 
 _Note: See [executable code for PECS](src/executable_code/PECS) directory for the details._
- ### Solving the PESC problem
+ ### The PESC problem
 _Usage:_
 
 ./PBTSPESC    N    NumberOfRuns   TimeLimit
