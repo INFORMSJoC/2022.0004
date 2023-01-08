@@ -16,6 +16,8 @@ This repository includes mainly the following materials:
 - _detailed computatioanl results obtained in our experiments_ (See [results/detailed results] directory for the details.)
 - _Best solutions found in the experiments_ (See [results/best solutions] directory for the details.)
 
+_Note: The contents and formats of all the files are demonstrated in the ReadMe files of the corresponding subdirectories._
+
 ## Running the programs
 
  ### The PECS problem 
