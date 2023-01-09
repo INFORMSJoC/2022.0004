@@ -21,7 +21,7 @@ Note: The contents and formats of the files are demonstrated in the ReadMe file 
 
 ## Running the programs
 
-To generate the executable codes (i.e., PBTSPECS and PBTSPESC) of PBTS algorithm respectively for the PECS and PESC problems, one can carry out the script files 'compile_pecs.sh' and 'compile_pesc.sh' in the [scripts](scripts) directory.
+To generate the executable codes (i.e., PBTSPECS and PBTSPESC) of PBTS algorithm respectively for the PECS and PESC problems, one can run the script files 'compile_pecs.sh' and 'compile_pesc.sh' in the [scripts](scripts) directory.
 
  ### The PECS problem 
 _Usage:_ 
