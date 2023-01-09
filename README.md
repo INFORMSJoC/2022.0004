@@ -17,7 +17,7 @@ This repository includes the following materials:
 - _detailed computatioanl results obtained in our experiments_ (See [the detailed results](results/detailed_results) directory for the details.)
 - _best solutions found in the experiments_ (See [the best solutions](results/best_solutions) directory for the details.)
 
-Note: The contents and formats of the files are demonstrated in the ReadMe files of corresponding subdirectory.
+Note: The contents and formats of the files are demonstrated in the ReadMe file of corresponding subdirectory.
 
 ## Running the programs
 
