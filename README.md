@@ -33,7 +33,6 @@ Below is the BibTex for citing this version of the code.
   title =         {{Circlepacking} Version v2022.0004},
   year =          {2022},
   doi =           {10.5281/zenodo.7519174},
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7519174.svg)](https://doi.org/10.5281/zenodo.7519174)
   url =           {https://github.com/INFORMSJoC/2022.0004},
 }  
 ```
