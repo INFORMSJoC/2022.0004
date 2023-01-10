@@ -19,6 +19,25 @@ This repository includes the following materials:
 
 Note: The contents and formats of the files are demonstrated in the ReadMe file of corresponding subdirectory.
 
+
+## Cite
+
+To cite this software, please cite the following DOI.
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{circlepacking2022,
+  author =        {X.J. Lai, J.K. Hao, R.B. Xiao, and F. Glover},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{Circlepacking} Version v2022.0004},
+  year =          {2022},
+  doi =           {10.5281/zenodo.7519174},
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7519174.svg)](https://doi.org/10.5281/zenodo.7519174)
+  url =           {https://github.com/INFORMSJoC/2022.0004},
+}  
+```
+
 ## Running the programs
 
 To generate the executable codes (i.e., PBTSPECS and PBTSPESC) of PBTS algorithm respectively for the PECS and PESC problems, one can run the script files 'compile_pecs.sh' and 'compile_pesc.sh' in the [scripts](scripts) or [source code](src/source_code) directory.
