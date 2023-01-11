@@ -14,7 +14,7 @@ This repository includes the following materials:
 - _scripts used to replicate the experiments in the paper_ (See [scripts](scripts) directory for the details.)
 - _check procedure aiming to certify the feasibility of best solutions found_ (See [the check procedures](src/check_procedure) directory for the details.)
 - _Matlab procedure to show the configurations of solutions of the PECS problem_ (See [matlab](src/matlab) directory for the details.)
-- _detailed computatioanl results obtained in our experiments_ (See [the detailed results](results/detailed_results) directory for the details.)
+- _detailed computational results obtained in our experiments_ (See [the detailed results](results/detailed_results) directory for the details.)
 - _best solutions found in the experiments_ (See [the best solutions](results/best_solutions) directory for the details.)
 
 Note: The contents and formats of the files are demonstrated in the ReadMe file of corresponding subdirectory.
