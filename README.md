@@ -22,7 +22,9 @@ Note: The contents and formats of the files are demonstrated in the ReadMe file 
 
 ## Cite
 
-To cite this software, please cite the following DOI.
+To cite this material, please cite this repository, using the following DOI.
+
+[![DOI](https://www.zenodo.org/badge/587123460.svg)](https://www.zenodo.org/badge/latestdoi/587123460)
 
 Below is the BibTex for citing this version of the code.
 
