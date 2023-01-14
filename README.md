@@ -24,7 +24,7 @@ Note: The contents and formats of the files are demonstrated in the ReadMe file 
 
 To cite this material, please cite this repository, using the following DOI.
 
-[![DOI](https://www.zenodo.org/badge/587123460.svg)](https://www.zenodo.org/badge/latestdoi/587123460)
+[![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.7534006.svg)](https://doi.org/10.5281/zenodo.7534006)
 
 Below is the BibTex for citing this version of the code.
 
@@ -34,7 +34,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{Circlepacking} Version v2022.0004},
   year =          {2022},
-  doi =           {10.5281/zenodo.7519174},
+  doi =           {10.5281/zenodo.7534006},
   url =           {https://github.com/INFORMSJoC/2022.0004},
 }  
 ```
