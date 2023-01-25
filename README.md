@@ -23,7 +23,7 @@ Below is the BibTex for citing this version of the code.
   title =         {{Circlepacking} Version v2022.0004},
   year =          {2022},
   doi =           {10.5281/zenodo.7534006},
-  url =           {https://github.com/ge660/2022.0004},
+  url =           {https://github.com/INFORMSJoC/},
 }  
 ```
 
