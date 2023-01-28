@@ -12,7 +12,7 @@ that were used in the research reported in the paper _Perturbation-based thresho
 
 To cite this material, please cite this repository, using the following DOI.
 
-[![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.7534006.svg)](https://doi.org/10.5281/zenodo.7534006)
+[![DOI](https://zenodo.org/badge/585592740.svg)](https://zenodo.org/badge/latestdoi/585592740)
 
 Below is the BibTex for citing this version of the code.
 
