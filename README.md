@@ -22,7 +22,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{Circlepacking} Version v2022.0004},
   year =          {2022},
-  doi =           {10.5281/zenodo.7534006},
+  doi =           {10.5281/zenodo.7579558},
   url =           {https://github.com/INFORMSJoC/2022.0004},
 }  
 ```
