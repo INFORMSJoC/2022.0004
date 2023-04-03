@@ -1,12 +1,12 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Perturbation-based thresholding search for packing equal circles and spheres
+# [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290)
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported in the paper _Perturbation-based thresholding search for packing equal circles and spheres_ by L.J Lai, J.K. Hao, R.B. Xiao, and F. Glover. 
+that were used in the research reported in the paper [Perturbation-based thresholding search for packing equal circles and spheres](https://doi.org/10.1287/ijoc.2023.1290) by L.J Lai, J.K. Hao, R.B. Xiao, and F. Glover. 
 
 ## Cite
 
