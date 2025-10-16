@@ -10,9 +10,7 @@ that were used in the research reported in the paper [Perturbation-based thresho
 
 ## Cite
 
-To cite this material, please cite this repository, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/585592740.svg)](https://zenodo.org/badge/latestdoi/585592740)
+To cite this material, please cite this repository, using the following DOI: [https://doi.org/10.1287/ijoc.2023.1290.cd](https://doi.org/10.1287/ijoc.2023.1290.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -22,7 +20,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{Circlepacking} Version v2022.0004},
   year =          {2022},
-  doi =           {10.5281/zenodo.7579558},
+  doi =           {10.1287/ijoc.2023.1290.cd},
   url =           {https://github.com/INFORMSJoC/2022.0004},
 }  
 ```
